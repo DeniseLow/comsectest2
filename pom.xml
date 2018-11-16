@@ -83,5 +83,15 @@
 		<artifactId>mysql-connector-java</artifactId>
 		<version>5.1.38</version>
 	</dependency>
+	<dependency>
+		<groupId>org.apache.hive</groupId>
+		<artifactId>hive-metastore</artifactId>
+		<version>1.2.0</version>
+	</dependency>
+	<dependency>
+		<groupId>org.apache.qpid</groupId>
+		<artifactId>qpid-client</artifactId>
+		<version>6.0.0</version>
+	</dependency>
   </dependencies>
 </project>
