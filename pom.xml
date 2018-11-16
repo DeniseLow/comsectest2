@@ -105,10 +105,5 @@
 		<version>1.4.0</version>
 		<scope>provided</scope>
 	</dependency>
-	<dependency>
-		<groupId>org.apache.openmeetings</groupId>
-		<artifactId>openmeetings-util</artifactId>
-		<version>3.2.0</version>
-	</dependency>
   </dependencies>
 </project>
