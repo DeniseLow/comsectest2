@@ -93,5 +93,17 @@
 		<artifactId>qpid-client</artifactId>
 		<version>6.0.0</version>
 	</dependency>
+	<dependency>
+		<groupId>org.apache.nifi</groupId>
+		<artifactId>nifi-api</artifactId>
+		<version>1.2.0</version>
+		<scope>provided</scope>
+	</dependency>
+	<dependency>
+		<groupId>org.apache.sling</groupId>
+		<artifactId>org.apache.sling.auth.core</artifactId>
+		<version>1.4.0</version>
+		<scope>provided</scope>
+	</dependency>
   </dependencies>
 </project>
