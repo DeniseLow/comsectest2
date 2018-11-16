@@ -69,22 +69,6 @@
 		<version>4.0.3.RELEASE</version>
 	</dependency>
 	<dependency>
-		<groupId>org.apache.hive</groupId>
-		<artifactId>hive-metastore</artifactId>
-		<version>1.2.0</version>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.qpid</groupId>
-		<artifactId>qpid-client</artifactId>
-		<version>6.0.0</version>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.nifi</groupId>
-		<artifactId>nifi-api</artifactId>
-		<version>1.2.0</version>
-		<scope>provided</scope>
-	</dependency>
-	<dependency>
 		<groupId>org.springframework.batch</groupId>
 		<artifactId>spring-batch-admin-manager</artifactId>
 		<version>1.3.1.RELEASE</version>
@@ -98,17 +82,6 @@
 		<groupId>mysql</groupId>
 		<artifactId>mysql-connector-java</artifactId>
 		<version>5.1.38</version>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.sling</groupId>
-		<artifactId>org.apache.sling.auth.core</artifactId>
-		<version>1.4.0</version>
-		<scope>provided</scope>
-	</dependency>
-	<dependency>
-		<groupId>org.apache.openmeetings</groupId>
-		<artifactId>openmeetings-util</artifactId>
-		<version>3.2.0</version>
 	</dependency>
   </dependencies>
 </project>
