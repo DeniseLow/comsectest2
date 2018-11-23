@@ -106,16 +106,6 @@
 		<scope>provided</scope>
 	</dependency>
 	<dependency>
-		<groupId>org.apache.openmeetings</groupId>
-		<artifactId>openmeetings-util</artifactId>
-		<version>3.2.0</version>
-	</dependency>
-	<dependency>
-		<groupId>com.cloudera.hadoop</groupId>
-		<artifactId>hadoop-core</artifactId>
-		<version>0.20.2-320</version>
-	</dependency>
-	<dependency>
 		<groupId>com.sun.mail</groupId>
 		<artifactId>javax.mail</artifactId>
 		<version>1.6.0</version>
@@ -123,7 +113,7 @@
 	<dependency>
 		<groupId>com.oracle.java</groupId>
 		<artifactId>jre</artifactId>
-		<version>1.7.0_79</version>
+		<version>1.7.0_76</version>
 	</dependency>
 	<dependency>
 		<groupId>com.sun.mail</groupId>
@@ -134,11 +124,6 @@
 		<groupId>com.sun.mail</groupId>
 		<artifactId>javax.mail</artifactId>
 		<version>1.6.0</version>
-	</dependency>
-	<dependency>
-		<groupId>com.springsource</groupId>
-		<artifactId>org.quartz</artifactId>
-		<version>1.6.2</version>
 	</dependency>
 	<dependency>
 		<groupId>com.sun.mail</groupId>
